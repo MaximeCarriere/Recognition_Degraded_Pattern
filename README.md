@@ -1,5 +1,5 @@
 # Recognition of Degraded Pattern 
-# Single vs Multilayer Perceptron 
+## Single vs Multilayer Perceptron 
 
 Pattern is the alphabet from A to Z. 
 The two networks are trained on the intact Pattern.
